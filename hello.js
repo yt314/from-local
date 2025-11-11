@@ -15,3 +15,6 @@ const c = () => {
     console.log("func c called");
 };
 
+const e = () => {
+    alert("e");
+};
