@@ -1,0 +1,1 @@
+this is a text from file2.txt
