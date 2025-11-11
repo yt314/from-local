@@ -8,6 +8,6 @@ const b = () => {
 };
 
 const c = () => {
-    console.log("cccccc");
+    console.log("func c called");
     
 };
